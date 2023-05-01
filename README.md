@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Logeshwari A</h1>
-<h3 align="center">A passionate web developer and ui/ux designer</h3>
+<h3 align="center">A passionate web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=logeshwari2002&label=Profile%20views&color=0e75b6&style=flat" alt="logeshwari2002" /> </p>
